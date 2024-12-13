@@ -1,0 +1,10 @@
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\bin\Debug\Crud_App.exe.config
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\bin\Debug\Crud_App.exe
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\bin\Debug\Crud_App.pdb
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\obj\Debug\Crud_App.csproj.AssemblyReference.cache
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\obj\Debug\Crud_App.Form1.resources
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\obj\Debug\Crud_App.Properties.Resources.resources
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\obj\Debug\Crud_App.csproj.GenerateResource.cache
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\obj\Debug\Crud_App.csproj.CoreCompileInputs.cache
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\obj\Debug\Crud_App.exe
+D:\Programer\BTech\Sem-4\.NET\Crud_App\Crud_App\obj\Debug\Crud_App.pdb
