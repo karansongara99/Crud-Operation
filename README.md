@@ -5,9 +5,11 @@ It contains CRUD Operation in database
 Simple Student Detail Windows Form App
 
 <h1>Design Desktop Application</h1>
-![image](https://github.com/user-attachments/assets/2de647bf-2861-4531-8469-fcb1b9a9af9c)
+![image](https://github.com/user-attachments/assets/b54bab59-b0c1-4aaa-9ab9-cb1fa8b9f5a8)
+
 
 <h1>Data Entered</h1>
-![image](https://github.com/user-attachments/assets/72062023-4fb8-4b19-8280-f26c52bd1bc0)
+![image](https://github.com/user-attachments/assets/1acc0933-59e8-4b41-be0c-1c989cf0e5d1)
+
 
 
